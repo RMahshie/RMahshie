@@ -7,4 +7,4 @@ I'm a CS student at Northeastern University with an AI Concentration
 ### Frameworks & Libraries
 - LangChain, LangGraph, OpenAI GPT, PyTorch, ChromaDB, pandas, JSON, Requests
 
-📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/RMahshie/) | [My Website](https://ryan-mahshie.xyz) | [My Email](mailto:ryan@mahshie.net)
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/ryan-mahshie/) | [My Website](https://ryan-mahshie.xyz) | [My Email](mailto:ryan@mahshie.net)
