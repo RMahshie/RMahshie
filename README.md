@@ -8,6 +8,6 @@ I'm a CS student at Northeastern University with an AI Concentration. I just fin
 ### Frameworks, Libraries, & Dev Tools
 - LangChain, LangGraph, Most LLMs, PyTorch, FastAPI, ChromaDB, K8, Docker, Azure/AWS, IaC
 
-📫 Let's connect: <a href="https://www.linkedin.com/in/ryan-mahshie/" target="_blank">LinkedIn</a>
+📫 Let's connect: <a href="https://www.linkedin.com/in/ryan-mahshie/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
 [LinkedIn](https://www.linkedin.com/in/ryan-mahshie/) | [My Website](https://ryan-mahshie.xyz) | [My Email](mailto:ryan@mahshie.net)
