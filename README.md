@@ -1,12 +1,9 @@
 # 👋 Hi, I'm Ryan Mahshie
 
-I'm a CS student at Northeastern University with an AI concentration. I just finished a 6-month co-op as a Software Engineer at [OpsCanvas](https://www.linkedin.com/company/opscanvas/), building cross-cloud infrastructure and backend systems.
+I'm a CS student at Northeastern University with an AI concentration. I'll be working at Visa this summer as a SWE, and I just finished a 6-month co-op at [OpsCanvas](https://www.linkedin.com/company/opscanvas/), building cross-cloud infrastructure and backend systems.
 
-- Passionate about backend development and AI systems (agents, RAG, automated workflows)
-- Currently building with: Go, Python, Java, LangChain, LangGraph, Kubernetes, Docker, AWS/Azure
+I'm passionate about backend development across a range of fields such as: normal backend dev work, cloud development, agentic ai, and harness orchestration. I've worked in a large variety of languages/frameworks such as Python, Java, Go, TypeScript, LangGraph/Chain, K8, Docker, and most cloud providers
 
-### Projects & Experience
-- **Backend Infrastructure:** Backend APIs for production systems, infrastructure-as-code, CI/CD pipelines, container orchestration
-- **AI Systems:** RAG pipelines, multi-agent frameworks (LangGraph), agentic workflows, vector databases
+Currently, I'm playing around with RLMs and self-building harnesses!
 
 📫 [LinkedIn](https://www.linkedin.com/in/ryan-mahshie/) | [Website](https://ryan-mahshie.xyz) | [Email](mailto:ryan@mahshie.net)
