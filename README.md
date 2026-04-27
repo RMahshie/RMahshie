@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ryan Mahshie
+## Ryan Mahshie
 
 I'm a CS student at Northeastern University with an AI concentration. I'll be working at Visa this summer as a SWE, and I just finished a 6-month co-op at [OpsCanvas](https://www.linkedin.com/company/opscanvas/), building cross-cloud infrastructure and backend systems.
 
